@@ -4,7 +4,7 @@
 [Streamlit 링크](https://leek1111-kaggle-project-app-803emd.streamlit.app/) <br/><br/>
 [발표 영상]() <br/><br/>
 [데모 시연]() <br/><br/>
-[PPT 발표](https://github.com/leek1111/kaggle-project/blob/main/StoreSalesinKaggle.pdf) <br/><br/>
+[PPT 발표](https://github.com/leek1111/kaggle-project/blob/main/img/StoreSalesinKaggle.pdf) <br/><br/>
 ![screensh](https://github.com/leek1111/kaggle-project/blob/main/img/main.jpg)
 
 ## 1.프로젝트의 시작 (2023.04.20 ~ 2023.05.17)
